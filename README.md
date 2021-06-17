@@ -1,8 +1,8 @@
 ```javascript
 const gabrieljacintoteixeira = {
   discord: "supp#0974",
-  tools: [VsCode, Javascript, CSS3, HTML5, NodeJS, Git, MongoDB, Firebase],
-  future: [python, react, docker, gulp, typescript, bootstrap],
+  tools: [Python, VsCode, Javascript, CSS3, HTML5, NodeJS, Git, MongoDB, Firebase],
+  future: [react, docker, gulp, typescript, bootstrap],
   looking for: [responsive design, open source, ui/ux design]
 }
 ```
